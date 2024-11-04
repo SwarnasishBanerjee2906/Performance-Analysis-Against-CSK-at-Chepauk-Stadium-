@@ -46,5 +46,5 @@ This repository explores the performance of various batters against the Chennai 
   - These images provide transparency in metric selection and weighting in the ranking process.
 
 ## Conclusion
-It thus concluded that the batters who performed well against spin and could change their scoring pattern while performing good are good enough in the middle overs at Chepauk against CSK. Retired players such as Shane Watson and AB de Villiers(Both performed better in 1st Innings) were highly consistent in those situations due to their aggressive yet adaptive natures. Among the available players, Nicolas Pooran and Marcus Stoinis(Both of them played even better in 2nd Innings). They control aggression and play strategically during the match against CSK at Chepauk.
+It thus concluded that the batters who performed well against spin and could change their scoring pattern while performing good are good enough in the middle overs at Chepauk against CSK. Retired players such as **Shane Watson** and **AB de Villiers**(Both performed better in *1st Innings*) were highly consistent in those situations due to their aggressive yet adaptive natures. Among the available players, **Nicolas Pooran** and **Marcus Stoinis**(Both of them played even better in *2nd Innings*). They control aggression and play strategically during the match against CSK at Chepauk.
 
