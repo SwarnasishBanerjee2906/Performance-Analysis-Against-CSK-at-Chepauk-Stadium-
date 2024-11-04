@@ -1,7 +1,7 @@
 # Performance-Analysis-Against-CSK-at-Chepauk-Stadium
 
 
-## 1. Performance Analysis Against CSK at Chepauk Stadium
+## 1. Batter Performance Analysis Against CSK at Chepauk Stadium in Middle Overs
 
 This repository explores the performance of various batters against the Chennai Super Kings (CSK) in T20 matches at Chepauk Stadium, Chennai. Given Chepauk’s spin-friendly pitch, the analysis focuses on how batters fare during the middle overs (7–15), where CSK frequently utilizes a spin-heavy bowling lineup. This project includes data analysis, visual representations, and performance metrics to assess player efficiency against spin at this venue.
 
